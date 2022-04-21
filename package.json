@@ -1,0 +1,19 @@
+{
+  "name": "treggo-challenge",
+  "version": "1.0.0",
+  "description": "Challenge de backend para Treggo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest challenge.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treggo/treggo-challenge.git"
+  },
+  "author": "Tadeo Andres Rosochacki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treggo/treggo-challenge/issues"
+  },
+  "homepage": "https://github.com/treggo/treggo-challenge#readme"
+}
